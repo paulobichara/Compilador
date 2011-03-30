@@ -1,0 +1,19 @@
+
+-------------------------------------------------------------------
+@Author: Paulo Augusto Dacach Bichara (contato@paulobichara.org)
+-------------------------------------------------------------------
+
+This was an academic task from "Compilers" class. We should implement an 
+really simple compiler with lexical and syntactic analyzers for an 
+pseudocode language. It includes an tradutor from this pseudocode to 
+Pascal. I didn't found the specification of this language, but I guess, 
+beside the beginner's codification, this could be useful for someone 
+who's starting to study how compilers work. As all other academic codes, 
+all strings are in brazillian portuguese (no internacionalization).
+
+I'm submitting with the eclipse project structure, so, to run, just 
+checkout the project folder into your eclipse's workspace, go to 
+"Import -> Existing Project Into Workspace" and select its folder. The 
+main class is Form.java.
+
+Good luck!
