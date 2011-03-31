@@ -26,9 +26,6 @@ beside the beginner's codification, this could be useful for someone
 who's starting to study how compilers work. As all other academic codes, 
 all strings are in brazillian portuguese (no internacionalization).
 
-I'm submitting with the eclipse project structure, so, to run, just 
-checkout the project folder into your eclipse's workspace, go to 
-"Import -> Existing Project Into Workspace" and select its folder. The 
-main class is Form.java.
+Main class: Form.java.
 
 Good luck!
